@@ -8,7 +8,7 @@ First you need your page to have the .php extension.  Then you need to add the f
 
 Next you need to add this line of code to the top of the page you would like your facebook feed to be displayed.
 
-    <?php include("facebook-feed.php") ?>
+    <?php include("facebook_feed/facebook-feed.php") ?>
     
 Now, you need to add this line of code to the location you want your feed to be displayed.
 

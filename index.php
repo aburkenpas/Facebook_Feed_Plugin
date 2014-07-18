@@ -1,5 +1,5 @@
 <?php
-include("facebook-feed.php")
+include("facebook_feed/facebook-feed.php")
 ?>
 
 <!DOCTYPE html>
