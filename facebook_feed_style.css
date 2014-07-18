@@ -1,0 +1,28 @@
+.facebook_feed {
+    font-family: 'Montserrat', sans-serif;
+    width: 300px;
+}
+.page_name {
+    background: #4e69a2;
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+    font-size: 20px;
+    margin: 0;
+}
+.fbmessages {
+    border: 2px solid #4e69a2;
+}
+.fbmessage {
+    padding: 0 15px;
+}
+.fbmessage a{
+    max-width: 260px;
+    display: inline-block;
+    word-wrap: break-word;
+    color:#3f6dd6;
+}
+.fbtime {
+    padding-bottom: .5em;
+    padding-left: 2em;
+}
